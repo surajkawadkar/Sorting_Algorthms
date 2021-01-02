@@ -1,5 +1,5 @@
 # This script is to perform bubble sort on a given array of elements
-
+# BUbble sort implemented
 def swap(a,i):
     temp = a[i]
     a[i] = a[i+1]
